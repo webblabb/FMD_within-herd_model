@@ -1,5 +1,6 @@
 
 #Code to run the base model from Beck-Johnson et al. for all herd sizes and seed sizes
+#© 2023 Colorado State University 
 
 library(adaptivetau) 
 
