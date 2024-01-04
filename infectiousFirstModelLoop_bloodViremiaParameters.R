@@ -1,4 +1,5 @@
 #Code to run the Infectious First model with parameters from viremia in blood from Beck-Johnson et al.for all herd sizes and seed sizes
+#© 2023 Colorado State University 
 
 library(adaptivetau) 
 
