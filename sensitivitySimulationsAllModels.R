@@ -1,4 +1,5 @@
 #Code to for sensitivity analysis for all models from Beck-Johnson et al.
+#© 2023 Colorado State University 
 
 library(adaptivetau) 
 
